@@ -1,0 +1,2 @@
+# Human-Recognition
+ The objective of this project was to create the android app that would take an image as input and predict the human in the picture and then highlight the area where it predicted the human.Starter was to identify human in IR images and create a model using Weka so that we can get an accurate estimate using the different classifying algorithm.Later train the model using Keras and get an accuracy better than the random forest in first started submission and then create a .tflite file so that it can be used in Andriod.
